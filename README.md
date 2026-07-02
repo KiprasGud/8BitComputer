@@ -1,4 +1,4 @@
-# 8BitComputer
+# 8 Bit Computer
 
 # Clock module
 The hearbeat of the computer.
